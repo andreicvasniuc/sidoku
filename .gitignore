@@ -348,3 +348,19 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# local env files
+.env
+.env.local
+.env.*.local
+
+# Notes (Only top level)
+Todo.md
+!*/**/Todo.md
+Retro.md
+!*/**/Retro.md
+app/node-headless-ssr-proxy/.env
+
+# ---- SonarQube
+.sonar/
+.scannerwork/
