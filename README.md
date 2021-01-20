@@ -1,3 +1,3 @@
 ## Solution Documentation
-* [Front-end](app/readme.md)
-* [Back-end (CMS)](cms/readme.md)
+* [Front-end](app/README.md)
+* [Back-end (CMS)](cms/README.md)
